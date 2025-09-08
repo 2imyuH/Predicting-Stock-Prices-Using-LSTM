@@ -32,7 +32,7 @@ Mục tiêu: dự đoán giá đóng cửa (`Close`) trong những ngày tiếp 
 
 ## 🔧 Cách chạy
 ```bash
-git clone https://github.com/<username>/stock-price-prediction-lstm.git
+git clone https://github.com/<username>/Predicting-Stock-Prices-Using-LSTM.git
 cd stock-price-prediction-lstm
 pip install -r requirements.txt
 
